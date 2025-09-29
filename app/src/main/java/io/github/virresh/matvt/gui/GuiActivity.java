@@ -162,7 +162,7 @@ public class GuiActivity extends AppCompatActivity {
     }
 
     private boolean isBossKeyChanged() {
-        return Helper.getBossKeyValue(this) != 164;
+        return Helper.getBossKeyValue(this) != 17;
     }
 
     private void checkValues(IconStyleSpinnerAdapter adapter) {
